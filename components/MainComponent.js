@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Directory from "./DirectoryCpmponent";
+import Directory from "./DirectoryComponent";
 import { CAMPSITES } from "../shared/campsites";
 
 class Main extends Component {
