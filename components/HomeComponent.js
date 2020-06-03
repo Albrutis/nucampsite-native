@@ -28,6 +28,7 @@ class Home extends Component {
   };
 
   render() {
+    console.log("props" + this.props.promotions.promotions);
     return (
       <ScrollView>
         <RenderItem
